@@ -6,4 +6,6 @@ and yet another line of text
 
 some more changes to the file done via Atom
 
-and more lines of text  
+and more lines of text
+
+and even more added online (does fetch work this way?)
